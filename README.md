@@ -161,7 +161,7 @@ Code editor (VS Code recommended)
 
 2. Installation
 # Clone the repo
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/muhammadhamza179/react-movie-recommender.git
 
 # Navigate to project
 cd <your-repo>
